@@ -1,0 +1,6 @@
+/Users/wellingtonmoura/Documents/Trabalho/TestecomDatas/TestedeData/TestedeData/bin/Debug/TestedeData.exe
+/Users/wellingtonmoura/Documents/Trabalho/TestecomDatas/TestedeData/TestedeData/bin/Debug/TestedeData.pdb
+/Users/wellingtonmoura/Documents/Trabalho/TestecomDatas/TestedeData/TestedeData/obj/Debug/TestedeData.csproj.AssemblyReference.cache
+/Users/wellingtonmoura/Documents/Trabalho/TestecomDatas/TestedeData/TestedeData/obj/Debug/TestedeData.csproj.CoreCompileInputs.cache
+/Users/wellingtonmoura/Documents/Trabalho/TestecomDatas/TestedeData/TestedeData/obj/Debug/TestedeData.exe
+/Users/wellingtonmoura/Documents/Trabalho/TestecomDatas/TestedeData/TestedeData/obj/Debug/TestedeData.pdb
